@@ -18,5 +18,12 @@
         "expirydate": "9-09-2099",
         "Allowoffline": false
         
+    },
+    {
+        "device_id": "852168fe91fa1740",
+        "key": "key-Aukkadech",
+        "expirydate": "9-09-2099",
+        "Allowoffline": false
+        
     }
 ]
