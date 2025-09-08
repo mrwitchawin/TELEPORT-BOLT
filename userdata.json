@@ -43,7 +43,14 @@
     {
         "device_id": "b55dd19a09f39650",
         "key": "key-Suwisit",
-        "expirydate": "8-11-2025",
+        "expirydate": "8-10-2025",
+        "Allowoffline": false
+        
+    },
+    {
+        "device_id": "57a1d44fc9f45db9",
+        "key": "key-Avirut",
+        "expirydate": "21-9-2025",
         "Allowoffline": false
         
     }
