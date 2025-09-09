@@ -53,5 +53,12 @@
         "expirydate": "21-9-2025",
         "Allowoffline": false
         
+    },
+    {
+        "device_id": "1a9e5270d883e247",
+        "key": "key-Tappsan",
+        "expirydate": "9-10-2025",
+        "Allowoffline": false
+        
     }
 ]
