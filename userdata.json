@@ -95,5 +95,12 @@
         "expirydate": "2-10-2025",
         "Allowoffline": false
         
+    },
+    {
+        "device_id": "ea97c3f709005624"
+        "key": "key-Winai",
+        "expirydate": "9-09-2099",
+        "Allowoffline": false
+        
     }
 ]
