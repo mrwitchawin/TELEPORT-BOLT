@@ -81,5 +81,12 @@
         "expirydate": "10-10-2025",
         "Allowoffline": false
         
+    },
+    {
+        "device_id": "01059b7d96733a75",
+        "key": "key-Rsis",
+        "expirydate": "1-10-2025",
+        "Allowoffline": false
+        
     }
 ]
