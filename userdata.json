@@ -88,5 +88,12 @@
         "expirydate": "1-10-2025",
         "Allowoffline": false
         
+    },
+    {
+        "device_id": "79425fa9b861ea19",
+        "key": "key-Blue",
+        "expirydate": "2-10-2025",
+        "Allowoffline": false
+        
     }
 ]
