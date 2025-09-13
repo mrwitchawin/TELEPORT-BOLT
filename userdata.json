@@ -94,6 +94,14 @@
         "key": "key-Blue",
         "expirydate": "2-10-2025",
         "Allowoffline": false
+       
+        
+    },
+    {
+        "device_id": "3ebb57aeaf1d0136",
+        "key": "key-Adisuk",
+        "expirydate": "14-10-2025",
+        "Allowoffline": false
         
    
         
